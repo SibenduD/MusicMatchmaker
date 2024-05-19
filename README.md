@@ -1,1 +1,1 @@
-# A dj booking website for ease which music system integrated.
+# A dj booking website for ease with music system integrated.
