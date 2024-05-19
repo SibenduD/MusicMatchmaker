@@ -1,4 +1,5 @@
-How to run the Online DJ Booking  Management System Project 
+How to run the Online DJ Booking  Management System Project in your PC:
+Follow the following steps - 
 
 1. Download the zip file
 
